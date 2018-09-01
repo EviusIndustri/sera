@@ -1,0 +1,2 @@
+# sera
+static-site handler
